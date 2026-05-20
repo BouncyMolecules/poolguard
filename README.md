@@ -1,6 +1,6 @@
 # poolguard
 
-**A practical tool to detect, measure, and manage patient pool differences in clinical AI.**
+**A package to detect, measure, and manage patient pool differences in clinical AI.**
 
 ---
 
